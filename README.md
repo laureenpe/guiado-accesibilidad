@@ -3,5 +3,5 @@
 
 # Accesibilidad
 
-![alt text](img/objective.png "Accesibilidad")
+![alt text](img/objectivo.png "Accesibilidad")
 
